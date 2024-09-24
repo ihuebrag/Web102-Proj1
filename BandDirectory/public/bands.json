@@ -1,0 +1,133 @@
+[
+    {
+        "band_id": 1,
+        "name": "The Rockers",
+        "genre": "Rock",
+        "location": "New York, NY",
+        "band_members": ["John Doe", "Jane Smith", "Mike Johnson"],
+        "social_media": {
+            "facebook": "facebook.com/therockers",
+            "twitter": "twitter.com/therockers",
+            "instagram": "instagram.com/therockers"
+        },
+        "logo": "istockphoto-138026020-612x612.jpg"
+        
+    },
+    {
+        "band_id": 2,
+        "name": "Jazz Masters",
+        "genre": "Jazz",
+        "location": "Chicago, IL",
+        "band_members": ["Alice Brown", "Bob White", "Charlie Green"],
+        "social_media": {
+            "facebook": "facebook.com/jazzmasters",
+            "twitter": "twitter.com/jazzmasters",
+            "instagram": "instagram.com/jazzmasters"
+        },
+        "logo": "/photo-1583470037890-73cc6850b7eb.avif"
+    },
+    {
+        "band_id": 3,
+        "name": "Hip Hop Heroes",
+        "genre": "Hip Hop",
+        "location": "Los Angeles, CA",
+        "band_members": ["Dave Black", "Eve Blue", "Frank Red"],
+        "social_media": {
+            "facebook": "facebook.com/hiphopheroes",
+            "twitter": "twitter.com/hiphopheroes",
+            "instagram": "instagram.com/hiphopheroes"
+        },
+        "logo": "/photo-1621586556026-98b104442283.avif"
+    },
+    {
+        "band_id": 4,
+        "name": "Country Stars",
+        "genre": "Country",
+        "location": "Nashville, TN",
+        "band_members": ["George King", "Hannah Queen", "Ian Prince"],
+        "social_media": {
+            "facebook": "facebook.com/countrystars",
+            "twitter": "twitter.com/countrystars",
+            "instagram": "instagram.com/countrystars"
+        },
+        "logo": "/photo-1445794544025-638c95e994f1.avif"
+    },
+    {
+        "band_id": 5,
+        "name": "Pop Sensations",
+        "genre": "Pop",
+        "location": "Miami, FL",
+        "band_members": ["Jack Frost", "Kara Summer", "Liam Winter"],
+        "social_media": {
+            "facebook": "facebook.com/popsensations",
+            "twitter": "twitter.com/popsensations",
+            "instagram": "instagram.com/popsensations"
+        },
+        "logo": "/premium_photo-1682600101098-f289a017b4ba.avif"
+    },
+    {
+        "band_id": 6,
+        "name": "Blues Legends",
+        "genre": "Blues",
+        "location": "Memphis, TN",
+        "band_members": ["Mason Blue", "Nina Indigo", "Oscar Violet"],
+        "social_media": {
+            "facebook": "facebook.com/blueslegends",
+            "twitter": "twitter.com/blueslegends",
+            "instagram": "instagram.com/blueslegends"
+        },
+        "logo": "/premium_photo-1682855222930-210943bfdd6c.avif"
+    },
+    {
+        "band_id": 7,
+        "name": "Metal Warriors",
+        "genre": "Metal",
+        "location": "Seattle, WA",
+        "band_members": ["Paul Iron", "Quinn Steel", "Rachel Silver"],
+        "social_media": {
+            "facebook": "facebook.com/metalwarriors",
+            "twitter": "twitter.com/metalwarriors",
+            "instagram": "instagram.com/metalwarriors"
+        },
+        "logo": "/photo-1501612780327-45045538702b.avif"
+    },
+    {
+        "band_id": 8,
+        "name": "Reggae Vibes",
+        "genre": "Reggae",
+        "location": "Kingston, Jamaica",
+        "band_members": ["Sam Marley", "Tina Roots", "Uma Dread"],
+        "social_media": {
+            "facebook": "facebook.com/reggaevibes",
+            "twitter": "twitter.com/reggaevibes",
+            "instagram": "instagram.com/reggaevibes"
+        },
+        "logo": "/photo-1718947109846-f19c3fe3062e.avif"
+    },
+    {
+        "band_id": 9,
+        "name": "Electronic Beats",
+        "genre": "Electronic",
+        "location": "Berlin, Germany",
+        "band_members": ["Victor Synth", "Wendy Wave", "Xander Bass"],
+        "social_media": {
+            "facebook": "facebook.com/electronicbeats",
+            "twitter": "twitter.com/electronicbeats",
+            "instagram": "instagram.com/electronicbeats"
+        },
+        "logo": "/photo-1621586556026-98b104442283.avif"
+    },
+    {
+        "band_id": 10,
+        "name": "Indie Dreamers",
+        "genre": "Indie",
+        "location": "Austin, TX",
+        "band_members": ["Yara Dream", "Zane Hope", "Ava Star"],
+        "social_media": {
+            "facebook": "facebook.com/indiedreamers",
+            "twitter": "twitter.com/indiedreamers",
+            "instagram": "instagram.com/indiedreamers"
+        },
+        "logo": "/istockphoto-1391884768-612x612.jpg"
+    }
+]
